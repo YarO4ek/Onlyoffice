@@ -34,7 +34,7 @@ function createTree(treeHeight) {
     return tree;
 }
 
-const treeHeight = 7;
+const treeHeight = 6;
 const treeText = createTree(treeHeight);
 console.log(treeText);
 
